@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 export default () => {
   const base = 'color: #303030; font: 500 16px/12px "SF Mono", "Hack", monospace; vertical-align: middle;'
   const spacer = 'line-height: 8px;'
